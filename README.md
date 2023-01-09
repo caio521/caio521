@@ -26,7 +26,6 @@
     </a> 
 
     
-    
-  ![Snake animation](https://github.com/caio521/caio521/blob/output/github-contribution-grid-snake.svg)
+   
  
   </div>
