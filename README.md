@@ -1,6 +1,27 @@
 ### Olá! Eu sou Robert Caio 👋
 
-<div align="center">
+
+<head>
+  <style>
+    /* Estilos padrão */
+    .container {
+      width: 100%;
+      padding: 0 16px;
+    }
+
+    /* Media query para tela menor que 800px */
+    @media only screen and (max-width: 800px) {
+      .container {
+        width: 95%;
+        padding: 0 8px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div align="center">
   <a href="https://github.com/caio521">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=caio521&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio521&layout=compact&langs_count=7&theme=nord"/>
@@ -29,3 +50,6 @@
    
  
   </div>
+  </div>
+</body>
+
