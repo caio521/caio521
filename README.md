@@ -4,14 +4,16 @@
 <body>
   <div class="container">
     <div align="center">
+      <div style="display: flex">
   <a href="https://github.com/caio521">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=caio521&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio521&layout=compact&langs_count=7&theme=nord"/>
 </div>
+        </div>
   
   ## Tecnologias que uso no meu dia
   
-  <div style="display: felx"><br>
+  <div style="display: flex"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
