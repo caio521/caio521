@@ -1,24 +1,6 @@
 ### Olá! Eu sou Robert Caio 👋
 
 
-<head>
-  <style>
-    /* Estilos padrão */
-    .container {
-      width: 100%;
-      padding: 0 16px;
-    }
-
-    /* Media query para tela menor que 800px */
-    @media only screen and (max-width: 800px) {
-      .container {
-        width: 95%;
-        padding: 0 8px;
-      }
-    }
-  </style>
-</head>
-
 <body>
   <div class="container">
     <div align="center">
