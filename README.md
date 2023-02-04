@@ -2,7 +2,7 @@
 
 
 <body>
-  <div class="container">
+  <div class="container" style="display: flex">
     <div align="center">
       <div style="display: flex">
   <a href="https://github.com/caio521">
