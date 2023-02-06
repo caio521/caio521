@@ -7,13 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio521&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio521&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  ##
  
-  
-
-  
-  ## Tecnologias que uso no meu dia
-  
 <div align="center"><br>
   <img align="center" alt="caio521-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="caio521-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
