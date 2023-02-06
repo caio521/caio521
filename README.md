@@ -1,23 +1,26 @@
 ### Olá! Eu sou Robert Caio 👋
 
 
-<body>
-  <div class="container">
-    <div align="center">
-      <div style="display: flex">
+ <div>
+<div align="center">
   <a href="https://github.com/caio521">
-  <img style="display: flex" heigth src="https://github-readme-stats.vercel.app/api?username=caio521&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio521&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techjuliana&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-        </div>
+  
+ 
+  
+
   
   ## Tecnologias que uso no meu dia
   
-  <div style="display: flex"><br>
-  <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div> 
+<div align="center"><br>
+  <img align="center" alt="caio521-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="caio521-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="caio521-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="caio521-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="caio521-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <hr>
   
   
   ##
